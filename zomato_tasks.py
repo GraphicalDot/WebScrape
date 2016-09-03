@@ -6,7 +6,7 @@ from colored_print import bcolors
 from db_insertion import DBInsert
 from google_n_pics import GoogleNPics
 from error_decorators import print_messege
-# from google_places import find_google_places
+from google_places import find_google_places
 
 # from celery_app.App import app
 
